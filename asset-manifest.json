@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/narutocards/static/css/main.ba1d2be1.css",
-    "main.js": "/narutocards/static/js/main.a44e2ef5.js",
+    "main.css": "/narutocards/static/css/main.a85cedc9.css",
+    "main.js": "/narutocards/static/js/main.05007aa1.js",
+    "static/media/SEGA.woff": "/narutocards/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
     "index.html": "/narutocards/index.html",
-    "main.ba1d2be1.css.map": "/narutocards/static/css/main.ba1d2be1.css.map",
-    "main.a44e2ef5.js.map": "/narutocards/static/js/main.a44e2ef5.js.map"
+    "main.a85cedc9.css.map": "/narutocards/static/css/main.a85cedc9.css.map",
+    "main.05007aa1.js.map": "/narutocards/static/js/main.05007aa1.js.map"
   },
   "entrypoints": [
-    "static/css/main.ba1d2be1.css",
-    "static/js/main.a44e2ef5.js"
+    "static/css/main.a85cedc9.css",
+    "static/js/main.05007aa1.js"
   ]
 }
