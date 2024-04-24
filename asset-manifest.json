@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/narutocards/static/css/main.ba1d2be1.css",
+    "main.js": "/narutocards/static/js/main.a44e2ef5.js",
+    "index.html": "/narutocards/index.html",
+    "main.ba1d2be1.css.map": "/narutocards/static/css/main.ba1d2be1.css.map",
+    "main.a44e2ef5.js.map": "/narutocards/static/js/main.a44e2ef5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba1d2be1.css",
+    "static/js/main.a44e2ef5.js"
+  ]
+}
